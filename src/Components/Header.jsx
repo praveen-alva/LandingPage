@@ -60,7 +60,7 @@ const Header = () => {
         </div>
       </div>
 
-  
+      {/* Mobile Navigation */}
       {isMenuOpen && (
         <div className="md:hidden bg-white border-t border-gray-100">
           <div className="px-4 pt-2 pb-3 space-y-1">
